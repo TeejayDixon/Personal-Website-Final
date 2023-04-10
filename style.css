@@ -1,0 +1,73 @@
+body {
+  margin: 0;
+  overflow-x: hidden;
+  
+}
+i {
+  font-size: 24px;
+}
+
+.container1 {
+  
+  background-color: black;
+  display: grid;
+  height: 900px;
+  max-width: 100%;
+  background-repeat:no-repeat !important;
+    background-size: cover !important;
+    background-position:center center !important;
+  
+}
+
+.fa-brands {
+  float: left;
+  padding-left: 8px;
+  padding-right: 8px;
+}
+
+.header {
+  color: #fff;
+  margin-left:  17%; 
+  font-size: 60px;
+  letter-spacing: 3px;
+}
+
+.navmenu {
+  margin: 40px;
+}
+
+
+
+.topnav, a {
+  
+  font-family: 'Rubik Mono One';
+  color: #fff;
+  text-decoration: none;
+  text-align: center;
+  margin-bottom: 3%;
+  font-size: 20px;
+
+  
+}
+.engineer {
+  margin-top: 0px;
+  font-family: 'Cutive';
+  letter-spacing: 3px;;
+}
+
+.imteejay {
+  font: bold;
+  margin-bottom: 0;
+  font-family: 'Staatliches';
+}
+
+
+.container2 {
+  background-color: #EEEEEE;
+  height: 800px;
+  max-width: 100%;
+}
+
+
+
+
